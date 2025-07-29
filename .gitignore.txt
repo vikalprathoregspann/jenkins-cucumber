@@ -1,0 +1,9 @@
+target/
+.classpath
+.project
+.settings/
+*.prefs
+test-output/
+*.orig
+*.rej
+
