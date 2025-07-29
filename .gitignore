@@ -16,7 +16,7 @@ test-output/
 *.orig
 *.rej
  
-# Maven wrapper
+# Maven wrapper (keep these in version control)
 # .mvn/
 # mvnw
 # mvnw.cmd
