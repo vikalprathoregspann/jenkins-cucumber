@@ -1,9 +1,22 @@
+# Build directories
 target/
+*/target/
+ 
+# IDE files
+.settings/
 .classpath
 .project
-.settings/
 *.prefs
+ 
+# Test output
 test-output/
+*/test-output/
+ 
+# Git files
 *.orig
 *.rej
-
+ 
+# Maven wrapper (keep these in version control)
+# .mvn/
+# mvnw
+# mvnw.cmd
